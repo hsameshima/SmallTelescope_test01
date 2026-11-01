@@ -4,7 +4,7 @@
 
 | 年度 | 対象 | 内容 | ノートブック |
 | --- | --- | --- | --- |
-| [2026](2026/README.md) | M57（環状星雲） | ミューロン210 の試験観測（2026-10-08）から、50cm 公開望遠鏡での写りと観測計画を予測する | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsameshima/SmallTelescope_test01/blob/main/2026/notebooks/m57_practicum.ipynb) |
+| [2026](2026/README.md) | M57（環状星雲） | ミューロン210 の試験観測（2026-10-08）から、50cm 公開望遠鏡での写りと観測計画を予測する | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsameshima/SmallTelescope/blob/main/2026/notebooks/m57_practicum.ipynb) |
 
 ## フォルダの構成
 

@@ -1,6 +1,6 @@
 # 2026年度　小望遠鏡実習：M57 の実測データから 50cm 望遠鏡での写りを予測する
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsameshima/SmallTelescope_test01/blob/main/2026/notebooks/m57_practicum.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsameshima/SmallTelescope/blob/main/2026/notebooks/m57_practicum.ipynb)
 
 2026年10月8日にミューロン210（口径 210 mm）＋ ZWO ASI183MM で撮影した M57（環状星雲）のデータを使い、国立天文台 50cm 公開望遠鏡で同じカメラを使ったときのピクセルスケール・信号・S/N を予測して、本番の観測スケジュールを作る課題です。
 
